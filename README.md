@@ -1,2 +1,4 @@
 # branches-merge-demo
-Here's a quick demo on branching and mreging
+Here's not a quick dem on branccching and mreggging
+
+I am very bad at spelling
